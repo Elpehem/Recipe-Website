@@ -1,0 +1,1 @@
+This website is a recipe website for the Odin Project's foundation.
